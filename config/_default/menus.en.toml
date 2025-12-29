@@ -1,0 +1,35 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Home"
+pageRef = "Home"
+identifier = "dUhsROn14Q"
+weight = 4
+
+[[main]]
+name = "Teams"
+pageRef = "teams"
+identifier = "x0a7iB33eF"
+weight = 3
+
+[[main]]
+name = "Elections"
+pageRef = "elections"
+identifier = "eEER0hfNId"
+weight = 2
+
+[[main]]
+name = "Programs"
+pageRef = "programs"
+identifier = "dw9ovr66Mf"
+weight = 1
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+identifier = "FOMC8en8PP"
+weight = 9_999
+
+[[footer]]
+none = "none"
